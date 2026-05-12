@@ -60,7 +60,7 @@ Uzupełnij `TODO` w tych plikach:
 - `GET /api/posts`
 - `GET /api/posts/:id`
 
-### Linki
+## Linki
 
-- [KONSPEKT_9.docx](https://pwsztaredupl-my.sharepoint.com/:w:/g/personal/d_aksamit_atar_edu_pl/IQBpIUzMsTzTRZH_gwdy109xAXqtJZcTeJkQKpqANJatP1w?e=vg1n39) z instrukcją
-- [Przestrzeń OneDrive](https://pwsztaredupl-my.sharepoint.com/:f:/g/personal/d_aksamit_atar_edu_pl/IgBgY_8KvVXIS5T4PcUEnFdLAZBLT9hqNIzcrYvT0jVgbB8?e=nn6RRc) do oddania zadań
+- [KONSPEKT_9.docx](https://pwsztaredupl-my.sharepoint.com/:w:/g/personal/d_aksamit_atar_edu_pl/IQBpIUzMsTzTRZH_gwdy109xAXqtJZcTeJkQKpqANJatP1w?e=vg1n39) z instrukcją wykonania zadania
+- [Przestrzeń OneDrive](https://pwsztaredupl-my.sharepoint.com/:f:/g/personal/d_aksamit_atar_edu_pl/IgBgY_8KvVXIS5T4PcUEnFdLAZBLT9hqNIzcrYvT0jVgbB8?e=nn6RRc) do oddania zadań (lab_9 oraz poprzednia laboratoria)
