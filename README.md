@@ -66,4 +66,4 @@ Uzupełnij `TODO` w tych plikach:
 - [Przestrzeń OneDrive](https://pwsztaredupl-my.sharepoint.com/:f:/g/personal/d_aksamit_atar_edu_pl/IgBgY_8KvVXIS5T4PcUEnFdLAZBLT9hqNIzcrYvT0jVgbB8?e=nn6RRc) do oddania zadań (lab_9 oraz poprzednia laboratoria)
 
 
-[Informacje o prezentacji w ramach zaliczenia kolokwium](https://pwsztaredupl-my.sharepoint.com/:w:/g/personal/d_aksamit_atar_edu_pl/IQBJS3piaTiiSZZd3vKe36dlAbnRUJtByVyZN7ra1bS-71A?e=6SLQUY)
+[Informacje o prezentacji w ramach zaliczenia kolokwium](https://pwsztaredupl-my.sharepoint.com/:w:/g/personal/d_aksamit_atar_edu_pl/IQBJS3piaTiiSZZd3vKe36dlAV8Gm4p3PyWffFE_kLHCVQc?e=DfOeAo)
