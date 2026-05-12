@@ -1,6 +1,7 @@
 # Laboratorium 9 – Routing w ReactJS
 
-[KONSPEKT Lab 9 docx](https://pwsztaredupl-my.sharepoint.com/:w:/g/personal/d_aksamit_atar_edu_pl/IQBpIUzMsTzTRZH_gwdy109xAXqtJZcTeJkQKpqANJatP1w?e=vg1n39)
+
+
 
 To repo jest starterem do ćwiczenia z `react-router-dom`. Projekt działa, ale najważniejsze elementy routingu są zostawione jako `TODO`.
 
@@ -58,3 +59,8 @@ Uzupełnij `TODO` w tych plikach:
 
 - `GET /api/posts`
 - `GET /api/posts/:id`
+
+### Linki
+
+- [KONSPEKT_9.docx](https://pwsztaredupl-my.sharepoint.com/:w:/g/personal/d_aksamit_atar_edu_pl/IQBpIUzMsTzTRZH_gwdy109xAXqtJZcTeJkQKpqANJatP1w?e=vg1n39)
+- [Przestrzeń OneDrive](https://pwsztaredupl-my.sharepoint.com/:f:/g/personal/d_aksamit_atar_edu_pl/IgBgY_8KvVXIS5T4PcUEnFdLAZBLT9hqNIzcrYvT0jVgbB8?e=nn6RRc)
